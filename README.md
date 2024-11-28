@@ -1,1 +1,1 @@
-# Bloggon
+# Bloggon - A blogging platform
